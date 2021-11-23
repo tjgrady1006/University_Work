@@ -1,0 +1,14 @@
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\bin\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.exe
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\bin\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.deps.json
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\bin\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.runtimeconfig.json
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\bin\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.runtimeconfig.dev.json
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\bin\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.dll
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\bin\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.pdb
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.csproj.AssemblyReference.cache
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.AssemblyInfoInputs.cache
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.AssemblyInfo.cs
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.dll
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.pdb
+C:\Users\Thomas Grady\source\repos\Portfolio_Task_2_Exercise_6\Portfolio_Task_2_Exercise_6\obj\Debug\netcoreapp3.1\Portfolio_Task_2_Exercise_6.genruntimeconfig.cache
