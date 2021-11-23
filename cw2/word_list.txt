@@ -1,0 +1,8 @@
+hello
+apple
+throw
+coin
+cat
+dog
+match
+down
